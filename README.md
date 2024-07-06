@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savalierdev&label=Profile%20views&color=0e75b6&style=flat" alt="savalierdev" /> </p>
 
-- 🌱 Şuanda Öğrenmekte Olduklarım **React.JS , Java , Network Technologies**
+- 🌱 Şuanda Öğrenmekte Olduklarım **React.JS , Java , Network Teknolojileri**
 
 - 📫 Bana Ulaşmak İçin **alper@savalierlol.com.tr**
 
