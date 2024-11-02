@@ -5,7 +5,7 @@
 
 - 🌱 Şuanda Öğrenmekte Olduklarım **React.JS , Java , Network Teknolojileri**
 
-- 📫 Bana Ulaşmak İçin **alper@savalierlol.com.tr**
+- 📫 Bana Ulaşmak İçin **webmaster@alperelieyi.net.tr**
 
 <h3 align="left">Benimle İletişime Geç:</h3>
 <p align="left">
